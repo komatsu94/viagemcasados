@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@500&family=Poppins:wght@400;500&display=swap");
+
+body {
+  font-family: "Fredoka", sans-serif;
+  text-align: center;
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  text-align: center;
+  color: #ffffff;
+  margin: auto;
+  background: #ff385c;
+  border-radius: 20px;
+  height: 85px;
+  width: 100%;
+  position: static;
+}
+
+.page-logo {
+  height: 50px;
+  width: 50px;
+  position: static;
+  top: 20px;
+  right: 10px;
+}
+
+.locais {
+  background-color: white;
+}
+
+.locais-titulo {
+  text-align: center;
+}
+
+.nome a {
+  color: fuchsia;
+  text-decoration: none;
+
+}
+
+.descricao {
+  color: #ffffff;
+  font-size: 32px;
+}
+
+.locais-item {
+  border: 1px solid black;
+  list-style-type: none;
+}
+
